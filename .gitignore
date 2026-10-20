@@ -1,0 +1,4 @@
+# artefatti di build (ricreabili con build.sh)
+build/
+dist/
+*.zip
